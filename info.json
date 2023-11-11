@@ -1,0 +1,14 @@
+{
+    "name": "DeadlockRecipeSelector",
+    "version": "1.1.0",
+    "title": "Deadlock Recipe Selector",
+    "author": "billbo99",
+    "contact": "",
+    "homepage": "https://mods.factorio.com/mod/DeadlockRecipeSelector",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.0.0",
+        "deadlock-beltboxes-loaders"
+    ],
+    "description": "Change the prototype of beltboxes from furnaces to assembley machine so that (un)stacking recipes can be manually selected"
+}
